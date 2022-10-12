@@ -4,6 +4,7 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
+  background-color: rgb(249, 244, 220);
 }
 .left img {
   width: 23px;
@@ -46,7 +47,6 @@ input {
   padding: 3vw 5vw;
 }
 .section1 {
-  background-color: rgb(249, 244, 220);
   padding-top: 10px;
 }
 .img2 {
@@ -58,4 +58,15 @@ input {
 }
 .section3 {
   width: 100%;
+}
+.section4 {
+  width: 100vw;
+}
+.section5 {
+  width: 100%;
+}
+
+.section5img {
+  flex-wrap: wrap;
+  width: 8.33vw;
 }
