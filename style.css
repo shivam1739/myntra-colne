@@ -47,6 +47,15 @@ input {
 }
 .section1 {
   background-color: rgb(249, 244, 220);
-  height: 5000px;
   padding-top: 10px;
+}
+.img2 {
+  width: 100%;
+}
+.itemsImg {
+  flex-wrap: wrap;
+  width: 8.33%;
+}
+.section3 {
+  width: 100%;
 }
