@@ -1,0 +1,52 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.left img {
+  width: 23px;
+  height: 23px;
+}
+.container {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+header {
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  position: sticky;
+  top: 0;
+  background-color: white;
+  height: 66px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+nav ul li {
+  list-style: none;
+  padding: 0 12px;
+  font-family: Arial, sans-serif;
+}
+nav {
+  font-size: 14px;
+  padding-top: 10px;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+input {
+  width: 23vw;
+}
+.semibold {
+  font-weight: 700;
+}
+.homeImg {
+  width: 90vw;
+  padding: 3vw 5vw;
+}
+.section1 {
+  background-color: rgb(249, 244, 220);
+  height: 5000px;
+  padding-top: 10px;
+}
